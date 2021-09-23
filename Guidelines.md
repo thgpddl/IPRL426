@@ -34,8 +34,6 @@ assert len(inputs.shape)==2,print("输入数据要求为2维灰度图，但提�
 
 
 # 目录结构及命名
-Project
-|-outputs
-|-data
+单帧推理脚本：inference.py
 
-推理脚本：inference.py (视频推理：inference_video.py)
+视频推理：inference_video.py
